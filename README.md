@@ -2,7 +2,7 @@
 
 A simple key-value store implemented in Rust!
 
-I made this repo following the "Intro to Rust" YouTube series made by Ryan Levick @rylev in order to learn key concepts in Rust.
+I made this repo following the "Intro to Rust" YouTube series made by Ryan Levick [@rylev](https://github.com/rylev) in order to learn key basic concepts in Rust.
 
 You can check this series and more amazing resources made by Ryan in his YouTube channel:
 
